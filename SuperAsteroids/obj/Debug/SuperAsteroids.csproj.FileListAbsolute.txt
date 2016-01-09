@@ -1,0 +1,12 @@
+C:\Users\Gaming\Desktop\SuperAsteroids\SuperAsteroids\bin\Debug\SuperAsteroids.exe.config
+C:\Users\Gaming\Desktop\SuperAsteroids\SuperAsteroids\bin\Debug\SuperAsteroids.exe
+C:\Users\Gaming\Desktop\SuperAsteroids\SuperAsteroids\bin\Debug\SuperAsteroids.pdb
+C:\Users\Gaming\Desktop\SuperAsteroids\SuperAsteroids\obj\Debug\SuperAsteroids.csprojResolveAssemblyReference.cache
+C:\Users\Gaming\Desktop\SuperAsteroids\SuperAsteroids\obj\Debug\SuperAsteroids.Asteroids.resources
+C:\Users\Gaming\Desktop\SuperAsteroids\SuperAsteroids\obj\Debug\SuperAsteroids.Properties.Resources.resources
+C:\Users\Gaming\Desktop\SuperAsteroids\SuperAsteroids\obj\Debug\SuperAsteroids.csproj.GenerateResource.Cache
+C:\Users\Gaming\Desktop\SuperAsteroids\SuperAsteroids\obj\Debug\SuperAsteroids.exe
+C:\Users\Gaming\Desktop\SuperAsteroids\SuperAsteroids\obj\Debug\SuperAsteroids.pdb
+C:\Users\Gaming\Desktop\C#\projs\SuperAsteroids\SuperAsteroids\bin\Debug\SuperAsteroids.exe.config
+C:\Users\Gaming\Desktop\C#\projs\SuperAsteroids\SuperAsteroids\obj\Debug\SuperAsteroids.exe
+C:\Users\Gaming\Desktop\C#\projs\SuperAsteroids\SuperAsteroids\obj\Debug\SuperAsteroids.pdb
